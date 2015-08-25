@@ -14,7 +14,7 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-    read_write_datfile.cpp
+#    read_write_datfile.cpp
 
 HEADERS  += mainwindow.h \
     read_write_globals.h
