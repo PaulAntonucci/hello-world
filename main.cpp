@@ -1,6 +1,7 @@
 #include "mainwindow.h"
 #include <QApplication>
-gitgit vim
+// here's another change
+// gitgit vim
 
 //#include "read_write_globals.h"
 // Now making a change from github.com Aug 25 2015
@@ -20,7 +21,7 @@ int main(int argc, char *argv[])
     return a.exec();
 }
 
-
+// some change
 
 
 //some sentences - trying out the vi editor
