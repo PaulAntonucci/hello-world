@@ -34,4 +34,6 @@ int main(int argc, char *argv[])
 // what's next?
 // how do I get into/out of insert mode with VIM?
 
-// here we are aggain - aging?
+// here we are again 
+
+// adding more to test whether se can "stage" from Qt Creator
