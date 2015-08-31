@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>Jens-file Translator</string>
   </property>
   <widget class="QWidget" name="centralWidget">
    <layout class="QVBoxLayout" name="verticalLayout_2">
@@ -47,7 +47,7 @@
      <x>0</x>
      <y>0</y>
      <width>420</width>
-     <height>20</height>
+     <height>19</height>
     </rect>
    </property>
    <widget class="QMenu" name="menuFile">
@@ -57,18 +57,12 @@
     <addaction name="actionOpen"/>
     <addaction name="actionSave"/>
    </widget>
-   <widget class="QMenu" name="menuJens_File_Translator">
-    <property name="title">
-     <string>Jens-File Translator</string>
-    </property>
-   </widget>
    <widget class="QMenu" name="menuHome_Kyle_Backups">
     <property name="title">
      <string>Files in Home/Kyle/Backups</string>
     </property>
    </widget>
    <addaction name="menuFile"/>
-   <addaction name="menuJens_File_Translator"/>
    <addaction name="menuHome_Kyle_Backups"/>
   </widget>
   <widget class="QToolBar" name="mainToolBar">
